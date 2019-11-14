@@ -2,7 +2,7 @@
  * @Author: liwei@esrichina.com.cn 
  * @Date: 2019-06-15 01:29:54 
  * @Last Modified by: liwei@esrichina.com.cn
- * @Last Modified time: 2019-11-14 15:11:41
+ * @Last Modified time: 2019-11-14 16:19:13
  */
 
 window.mapConfig = {
@@ -639,6 +639,6 @@ window.mapConfig = {
     afterLandslideUrl: "https://sampleserver6.arcgisonline.com/arcgis/rest/services/OsoLandslide/OsoLandslide_After_3DTerrain/ImageServer"
   },
   OprService: {
-    getUser: "http://localhost/"
+    getUser: "https://gischina.github.io/vue-arcgis-demo/"
   }
 }
