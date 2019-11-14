@@ -1,14 +1,15 @@
 /*
  * @Author: liwei@esrichina.com.cn 
  * @Date: 2019-06-15 01:29:54 
- * @Last Modified by: mikey
- * @Last Modified time: 2019-07-26 08:59:44
+ * @Last Modified by: liwei@esrichina.com.cn
+ * @Last Modified time: 2019-11-14 15:11:41
  */
 
 window.mapConfig = {
-  jsapiUrl: "http://localhost/jsapi/init.js",
-  // jsapiUrl: "http://js.arcgis.com/4.12/",
-  cssUrl: "http://localhost/jsapi/esri/themes/light/main.css",
+  // jsapiUrl: "http://localhost/jsapi/init.js",
+  // cssUrl: "http://localhost/jsapi/esri/themes/light/main.css",
+  jsapiUrl: "https://js.arcgis.com/4.13/",
+  cssUrl: "https://js.arcgis.com/4.13/esri/themes/light/main.css",
   proxyUrl: "",
   center: {
     x: 105,
